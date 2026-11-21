@@ -5,7 +5,6 @@
   <p>
     <a href="https://www.linkedin.com/in/yogesh-sharma-597466325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/CodeZenith01/"><img src="https://img.shields.io/badge/LeetCode-CodeZenith01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode: CodeZenith01" /></a>
-    <a href="https://github.com/iyogisharma001"><img src="https://img.shields.io/badge/GitHub-iyogisharma001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: iyogisharma001" /></a>
   </p>
 </div>
 
